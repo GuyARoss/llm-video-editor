@@ -1,0 +1,10 @@
+[File: b_roll]
+
+[Scene: 0s - 12s]
+B-Roll of a phone
+
+[Scene: 12s - 34s]
+B-Roll of a car
+
+[Scene: 34s - 52s]
+B-Roll of a cat

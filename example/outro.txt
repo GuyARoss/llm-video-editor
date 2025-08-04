@@ -1,0 +1,8 @@
+[File: outro]
+
+[Scene: 0s - 5s]
+An outro for a youtube channel
+
+DIALOG
+[0 - 3.0] This has been the best youtube channel
+[3 - 5.0] Thanks for watching!

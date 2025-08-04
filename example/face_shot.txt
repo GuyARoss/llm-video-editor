@@ -1,0 +1,16 @@
+[File: face_shot]
+
+[Scene: 0s - 18s]
+A person talking directly to a camera
+
+DIALOG
+[0.38 - 2.0] Do you like cars?
+[2.62 - 4.14] Cars can be great, if you love them!
+[4.3 - 6.06] But if you don't?!
+[6.46 - 8.04] What about phones?!
+[8.42 - 10.24] Phones are great too!
+[10.36 - 12.08] Oh... 
+[12.16 - 13.66] Not phones either?!
+[13.86 - 16.06] Uhh.. what about
+[16.26 - 20] THIS CAT
+

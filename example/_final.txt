@@ -1,0 +1,13 @@
+[Edited]
+A comedic video trying to sell things
+
+Audio
+[0 - 20] face_shot[0]
+[20 - 25] outro[0]
+
+Video
+[0 - 4] b_roll[12]
+[4 - 8] face_shot[4]
+[8 - 10] b_roll[0]
+[10 - 16] face_shot[4]
+[16 - 20] b_roll[34]
